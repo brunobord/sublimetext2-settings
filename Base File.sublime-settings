@@ -1,0 +1,7 @@
+{
+    "font_face": "Ubuntu Mono",
+    "font_size": 12,
+    "color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+    "translate_tabs_to_spaces": true,
+    "rulers": [80, 120]
+}
