@@ -2,6 +2,8 @@
     "font_face": "Ubuntu Mono",
     "font_size": 12,
     "color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+    "rulers": [80, 120],
     "translate_tabs_to_spaces": true,
-    "rulers": [80, 120]
+    "trim_trailing_white_space_on_save": true,
+    "use_tab_stops": true
 }
