@@ -1,5 +1,6 @@
 [
     { "keys": ["ctrl+t"], "command": "indent" },
+    { "keys": ["ctrl+shift+t"], "command": "unindent" },
     { "keys": ["shift+tab"], "command": "unindent" },
     { "keys": ["alt+j"], "command": "join_lines" },
     { "keys": ["alt+up"], "command": "swap_line_up" },
