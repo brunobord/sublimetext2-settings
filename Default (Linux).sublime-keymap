@@ -7,6 +7,7 @@
 
     { "keys": ["alt+l"], "command": "expand_selection", "args": {"to": "line"} },
     { "keys": ["alt+w"], "command": "expand_selection", "args": {"to": "word"} },
+    { "keys": ["alt+b"], "command": "expand_selection", "args": {"to": "scope"} },
 
     { "keys": ["alt+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
     { "keys": ["ctrl+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
