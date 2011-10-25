@@ -1,0 +1,8 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+    <tabTrigger>iftest</tabTrigger>
+    <scope>source.python</scope>
+    <description>Python main test</description>
+    <content><![CDATA[if __name__ == '__main__':
+	${1:main()}$0]]></content>
+</snippet>
