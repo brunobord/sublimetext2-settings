@@ -12,6 +12,7 @@
 
     { "keys": ["alt+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
     { "keys": ["ctrl+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
+    { "keys": ["shift+ctrl+w"], "command": "close_all"},
 
     { "keys": ["ctrl+u"], "command": "duplicate_line" },
 
