@@ -16,5 +16,7 @@
 
     { "keys": ["super+u"], "command": "duplicate_line" },
 
-    { "keys": ["alt+c"], "command": "word_count"}
+    { "keys": ["alt+c"], "command": "word_count"},
+
+    { "keys": ["alt+q"], "command": "wrap_lines" }
 ]
