@@ -1,10 +1,14 @@
 {
-	"font_face": "Monaco",
-    "font_size": 13,
-	"color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
+	"auto_complete": true,
+	"auto_complete_delay": 500,
+	"auto_complete_size_limit": 20000,
+	"color_scheme": "Packages/User/BlackboardBB.tmTheme",
 	"fallback_encoding": "UTF-8",
+	"font_face": "Monaco",
+	"font_size": 13.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
+	"match_brackets_angle": true,
 	"rulers":
 	[
 		80,
@@ -12,13 +16,5 @@
 	],
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"use_tab_stops": true,
-
-	// Enable auto complete to be triggered automatically when typing.
-	"auto_complete": true,
-	// The maximum file size where auto complete will be automatically triggered.
-	"auto_complete_size_limit": 20000,
-	// The delay, in ms, before the auto complete window is shown after typing
-	"auto_complete_delay": 500
-
+	"use_tab_stops": true
 }
