@@ -1,2 +1,3 @@
 *.pyc
 Package Control.sublime-settings
+.DS_Store

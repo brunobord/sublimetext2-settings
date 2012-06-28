@@ -12,5 +12,13 @@
 	],
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"use_tab_stops": true
+	"use_tab_stops": true,
+
+	// Enable auto complete to be triggered automatically when typing.
+	"auto_complete": true,
+	// The maximum file size where auto complete will be automatically triggered.
+	"auto_complete_size_limit": 20000,
+	// The delay, in ms, before the auto complete window is shown after typing
+	"auto_complete_delay": 500
+
 }

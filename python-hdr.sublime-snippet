@@ -5,7 +5,7 @@
     <description>Python generic header</description>
     <content><![CDATA[
 #!/usr/bin/env python
-#-*- coding: utf8 -*-
+#-*- coding: utf-8 -*-
 
 ]]></content>
 </snippet>
