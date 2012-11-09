@@ -1,0 +1,20 @@
+# You want to install it
+
+## Beside SublimeText2
+
+* Ubuntu Fonts
+
+## Packages
+
+(via Package control)
+
+* CSScomb
+* Custom Task
+* Pretty JSON
+* Sublime Linter
+* Theme - Soda
+
+(via others)
+
+* Zen Coding => Emmet plugin. (https://github.com/sergeche/emmet-sublime)
+
