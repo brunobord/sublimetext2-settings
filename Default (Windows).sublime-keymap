@@ -16,5 +16,6 @@
 
     { "keys": ["ctrl+u"], "command": "duplicate_line" },
 
-    { "keys": ["alt+c"], "command": "word_count"}
+    { "keys": ["alt+c"], "command": "word_count"},
+    { "keys": ["ctrl+k", "ctrl+t"], "command": "title_case" }
 ]
